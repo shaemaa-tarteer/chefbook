@@ -144,19 +144,19 @@ chefbook/
 
 \#### 🏠 Homepage
 
-!\[Homepage](../images/screenshoots/home.png)
+!\[Homepage](images/screenshots/home.png)
 
 
 
 \#### 🥘 Recipes Page
 
-!\[Recipes](../images/screenshoots/recipes.png)
+!\[Recipes](images/screenshots/recipes.png)
 
 
 
 \#### ➕ Add Recipe Page
 
-!\[Add Recipe](../images/screenshoots/add-recipe.png)
+!\[Add Recipe](images/screenshots/add-recipe.png)
 
 
 
