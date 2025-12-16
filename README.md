@@ -144,23 +144,21 @@ chefbook/
 
 \#### 🏠 Homepage
 
-!\[Homepage](images/screenshots/home.png)
+!\[Homepage](../images/screenshoots/home.png)
 
 
 
 \#### 🥘 Recipes Page
 
-!\[Recipes](images/screenshots/recipes.png)
+!\[Recipes](../images/screenshoots/recipes.png)
 
 
 
 \#### ➕ Add Recipe Page
 
-!\[Add Recipe](images/screenshots/add-recipe.png)
+!\[Add Recipe](../images/screenshoots/add-recipe.png)
 
 
-
-> ⚠️ \*Replace these placeholder screenshots with your actual images in the `images/screenshots/` folder.\*
 
 
 
