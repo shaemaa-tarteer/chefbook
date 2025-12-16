@@ -1,0 +1,216 @@
+html, body {
+    height: 100%;
+    font-family: Arial, sans-serif;
+  }
+  body {
+    font-size: 20px;
+    padding-top: 100px; 
+    background-color: #f8f9fa; 
+  }
+  .navbar {
+    background-color: #f191cb;
+  }
+  .navbar-brand img {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+  }
+  .nav-link {
+    color: white !important;
+    font-size: 1.1rem;
+  }
+  
+  .navbar-toggler-icon {
+    background-color: white;
+  }
+  .intro-section {
+    background-color: #FFFACD;
+    background-size: cover;
+    background-position: center;
+    padding: 60px 20px;
+    text-align: center;
+    border-bottom: 2px solid #e0e0e0;
+  }
+  .section-title {
+    font-size: 2.8rem;
+    font-weight: bold;
+    color: #343a40;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+  }
+  .section-subtitle {
+    color: #6c757d;
+    margin-top: 0;
+    line-height: 1.5;
+  }
+    .intro-image {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%; 
+    object-fit: cover;
+    margin-top: 20px;
+  }
+  .get-started-btn {
+    background-color:#87CEFA; 
+    padding: 15px 32px;
+    font-size: 14px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: background-color 0.3s;
+    width: 35%;
+  }
+  .get-started-btn:hover {
+    background-color: #FFFFF0 ; 
+  }
+  .welcome-section {
+    background-color:#e5e8e8;
+}
+.welcome-section h1 {
+    font-weight: 20px;
+
+}
+.welcome-section img {
+    max-width: 90%;
+    border: 2px solid #ddd;
+}
+.create-recipes-section, meal-plan-section, access-anywhere-section{
+  background-color: #e5e8e8;
+
+}
+.meal-plan-section{
+  background-color: #e5e8e8;
+
+}
+.access-anywhere-section{
+  background-color: #e5e8e8;
+
+}
+
+/* Custom styles for the Add Recipe page */
+.add-recipe-section {
+  background-color: #e5e8e8;
+  padding: 60px 20px;
+  border-bottom: 2px solid #e0e0e0;
+}
+
+.add-recipe-section h1 {
+  font-size: 2.8rem;
+  font-weight: bold;
+  color: #343a40;
+  margin-bottom: 20px;
+  letter-spacing: 1px;
+}
+
+.form-label {
+  font-size: 1.2rem;
+  color: #343a40;
+  font-weight: bold;
+}
+
+.form-control {
+  font-size: 1.1rem;
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+}
+
+.form-control:focus {
+  border-color: #87CEFA;
+  box-shadow: 0 0 5px rgba(135, 206, 250, 0.5);
+}
+
+.btn-submit {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  margin: 20px auto;
+  padding: 15px 32px;
+  font-size: 1.1rem;
+  border-radius: 8px;
+  border: none;
+  background-color: #28a745; /* צבע רקע ירוק */
+  color: #ffffff; /* צבע טקסט לבן */
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.btn-submit:hover {
+  background-color: #218838; /* צבע רקע ירוק כהה יותר בהעברת עכבר */
+}
+
+.invalid-feedback {
+  font-size: 1rem;
+  color: #dc3545;
+}
+footer {
+  background-color: #30302f; /* צבע רקע של ה-footer */
+  color: whitesmoke; /* צבע טקסט שחור */
+  text-align: center;
+  padding: 1rem 0;
+}
+
+footer a {
+  color:whitesmoke; /* צבע קישורים שחור */
+  text-decoration: none; /* הסרת קו תחתון מקישורים */
+}
+
+footer a:hover {
+  color: #555; /* צבע קישורים בהעברת עכבר */
+}
+.highlight {
+  border: 2px solid #28a745 !important;
+  box-shadow: 0 0 5px #28a745;
+}
+/* Adjustments for Responsive Images in Recipe Categories */
+.recipe-item img {
+  width: 100%;
+  max-width: 300px;
+  height: 350px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+
+/* Adjust the video size */
+.video-section iframe {
+  width: 80%; 
+  height: 600px; 
+  max-width: 1000px;
+}
+
+
+/*For single recipe display*/
+.recipe-details img {
+  width: 150px;
+  height: 150px;
+  border-radius: 8px; 
+  margin: 10px 0; 
+  display: block; 
+  margin-left: auto; 
+  margin-right: auto; 
+}
+
+.video-thumbnail {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.video-thumbnail img {
+  width: 750px;
+  height: 550px;
+  border-radius: 5px;
+}
+
+.play-button {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 60px;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.6);
+  border-radius: 50%;
+  padding: 10px 20px;
+}
