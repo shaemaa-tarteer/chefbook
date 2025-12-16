@@ -134,38 +134,6 @@ chefbook/
 
 
 
----
-
-
-
-\## 🔹 Screenshots 📸
-
-
-
-\#### 🏠 Homepage
-
-!\[Homepage](images/screenshots/home.png)
-
-
-
-\#### 🥘 Recipes Page
-
-!\[Recipes](images/screenshots/recipes.png)
-
-
-
-\#### ➕ Add Recipe Page
-
-!\[Add Recipe](images/screenshots/add-recipe.png)
-
-
-
-
-
----
-
-
-
 \## 🔹 Summary 📝
 
 
